@@ -1,1 +1,1 @@
-print("Ulandimmi aka")
+print("Salom berdik qoplonboy")
